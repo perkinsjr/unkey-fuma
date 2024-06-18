@@ -8,11 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
-    "fumadocs-core": "12.0.7",
-    "fumadocs-mdx": "8.2.32",
-    "fumadocs-openapi": "^2.0.4",
+    "fumadocs-core": "^12.1.2",
+    "fumadocs-mdx": "^8.2.32",
+    "fumadocs-openapi": "^3.0.0",
     "fumadocs-typescript": "^2.0.1",
-    "fumadocs-ui": "12.0.7",
+    "fumadocs-ui": "^12.1.2",
     "next": "^14.2.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
